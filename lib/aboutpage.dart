@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'global.dart';
+import 'sharedWidgets.dart';
 
 class AboutPage extends StatelessWidget {
   //Business Owner Page
